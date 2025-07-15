@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
+title:  "이클립스 설치"
 summary: "Getting Started using devlopr-jekyll"
-author: johndoe
-date: '2019-05-22 14:35:23 +0530'
-category: jekyll
-thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+author: 전상훈
+date: '2025-07-15'
+category: 전상훈
+
 permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
 ---
@@ -51,15 +50,4 @@ public static void main(String[] args) 체크
 주석처리 : Ctrl + \
 
 실행 : Ctrl + F11 ( 자동 저장 Always save resources before launching)
-
-or
-
-```javascript
-var a = 1;
-var b = 2;
-function sum (num1,num2){
-  return num1+num2;
-}
-var result = sum(a,b);
-```
 
