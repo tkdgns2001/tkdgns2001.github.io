@@ -24,9 +24,9 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_logo: me.jpg
+author: JeonSangHun
+author_bio: 상훈의 블로그
 author_email: "tkdgns20011@naver.com"
 author_location: Korea
 author_website_url: "https://furry-molecule-6f4.notion.site/_-2319f52965c4808f91d2e78ec75bcfb2?source=copy_link"
