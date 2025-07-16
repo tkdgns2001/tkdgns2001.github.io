@@ -2,17 +2,16 @@
 layout: post
 title:  "2025-07-15"
 summary: "환경 세팅"
-author: xplor4r
+author: me
 date: '2025-07-15'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll
-thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
 usemathjax: false
 permalink: /blog/adding-categories-tags-in-posts/
 ---
 
-## Adding Multiple Categories in Posts
+## 2025-07-15 수업 정리
 
 정대호 강사  7.15
 010-7682-2520
