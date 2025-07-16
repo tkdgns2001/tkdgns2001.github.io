@@ -2,7 +2,7 @@
 layout: post
 title:  "2025-07-15"
 summary: "환경 세팅"
-author: me
+author: me.jpg
 date: '2025-07-15'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll

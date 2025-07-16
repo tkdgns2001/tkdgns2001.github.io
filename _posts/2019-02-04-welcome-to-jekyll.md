@@ -2,7 +2,7 @@
 layout: post
 title:  "이클립스 설치"
 summary: "Getting Started using devlopr-jekyll"
-author: me
+author: me.jpg
 thumbnail: eclipse.png
 date: '2025-07-15'
 category: 전상훈
