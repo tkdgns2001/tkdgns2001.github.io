@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Adding Multiple Categories in Posts"
-summary: "Learn how to add categories in posts"
+title:  "2025-07-15"
+summary: "환경 세팅"
 author: xplor4r
-date: '2021-02-28 1:35:23 +0530'
+date: '2025-07-15'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll
 thumbnail: /assets/img/posts/code.jpg
@@ -14,35 +14,62 @@ permalink: /blog/adding-categories-tags-in-posts/
 
 ## Adding Multiple Categories in Posts
 
-To add categories in blog posts all you have to do is add a **category** key with category values in frontmatter of the post :
+정대호 강사  7.15
+010-7682-2520
 
-```yml
+과정명 : 챗gpt를 활용한 자바 스프링 및 데이터 분석gpt를 활용한 자바 스프링 및 데이터 분석 시스템기반 웹플랫폿 구축 과정
+
+공유폴더 먼저 세팅
+
+dufs 서버     rust언어
+러스트 셋팅 후 코드 컴파일
+*.exe
+
+파일위치
+alt+d cmd 입력
+
+본인컴퓨터
+개발자는
+자료관리
+
+루트 workspace - java - 프로젝트명
+
+공유폴더 [http://220.66.60.101:5000](http://220.66.60.101:5000/)
+
+everything
+아주 빠르게 내 컴퓨터에 있는 파일들을 검색해줌
+
 ---
-category: ['jekyll', 'guides', 'sample_category']
+
+개발환경
+
+언어 셋팅 : java jdk jre
+통합 개발 환경 : ide 이클립스 인텔리제이 vscode
+
+java는 환경설정 셋팅이 힘듦 개발환경
+
+java -version
+version 21.0.6
+
+- 더블하이픈
+관례적으로 풀네임
+- 싱글하이픈
+단축말
+
 ---
-```
 
-Then to render this category using link and pages. All we need to do is,
+자바설치완료
+인스톨러에서 path(전역환경)를 등록해주는
+자바는 전역환경에 등록을 직접해줘야함함
 
-1. Create a new file with [your_category_name].md inside categories folder.
+블로거 잘 정리를 해둠 자바 path 셋팅
 
-2. Copy categories/sample_category.md file and replace the content in [your_category_name].md in that. (Please don't copy the code below its just sample, since it renders the jekyll syntax dynamically)
+자바 path 셋팅
+절대경로를 항상 써주는거는 번거롭다
+달랑 파일명만 적어도 어디서나 작동되게 해주는것
 
-```jsx
----
-layout: page
-title: Guides
-permalink: /blog/categories/your_category_name/
----
+돋보기 - 시스템 환경 변수 편집 - 고급 - 환경 변수 - 시스템 변수(S) -  JAVA_HOME
+환경변수 사용자 변수 : 개인 사용자 변수
+시스템 변수 : 시스템 변수 (path 셋팅)
 
-<h5> Posts by Category : {{ page.title }} </h5>
-
-<div class="card">
-{% for post in site.categories.your_category_name %}
- <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</div>
-```
-
-Using the category, all the posts associated with the category will be listed on
-`http://localhost:4000/blog/categories/your_category_name`
+bin 바이너리 - 0 1 컴파일이 끝난것들 .exe 파일들이 모여있는
